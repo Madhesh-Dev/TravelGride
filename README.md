@@ -1,1 +1,1 @@
-# WADproject35
+# Project using Django
